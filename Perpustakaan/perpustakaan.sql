@@ -26,7 +26,7 @@ CREATE TABLE books (
 ALTER TABLE books ENGINE=InnoDB;
 
 CREATE TABLE loans (
-  loan_id     VARCHAR(10) PRIMARY KEY,
+  loan_id     INT AUTO_INCREMENT PRIMARY KEY,
   user_id     INT NOT NULL,
   book_id     INT NOT NULL,
   loan_date   DATE NOT NULL,
