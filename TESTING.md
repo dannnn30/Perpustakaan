@@ -448,12 +448,47 @@ Gunakan checklist ini untuk testing cepat:
 ## Template Laporan Hasil UAT
 Salin template ini ke issue GitHub / dokumen laporan.
 
-| Test Case ID | Module/Form | Steps Singkat | Expected Result | Actual Result | Status (PASS/FAIL) | Notes/Bug Link |
-|-------------|-------------|---------------|-----------------|--------------|--------------------|----------------|
-| TC-LGN-01   | Login       | ...           | ...             | ...          | PASS/FAIL          | ...            |
+| Test Case ID | Module/Form | Status (PASS/FAIL) |
+|-------------|-------------|--------------------|
+| TC-LGN-01   | Login       | PASS               |
+| TC-LGN-02   | Login       | PASS               |
+| TC-LGN-03   | Login       | PASS               |
+| TC-LGN-04   | Login       | PASS               |
+| TC-LGN-05   | Login       | PASS               |
+| TC-CAT-01   | Catalog     | PASS               |
+| TC-CAT-02   | Catalog     | PASS               |
+| TC-CAT-03   | Catalog     | PASS               |
+| TC-CAT-04   | Catalog     | PASS               |
+| TC-CAT-05   | Catalog     | PASS               |
+| TC-CAT-06   | Catalog     | PASS               |
+| TC-CAT-07   | Catalog     | PASS               |
+| TC-BRW-01   | Borrow      | PASS               |
+| TC-BRW-02   | Borrow      | PASS               |
+| TC-BRW-03   | Borrow      | PASS               |
+| TC-BRW-04   | Borrow      | PASS               |
+| TC-BRW-05   | Borrow      | PASS               |
+| TC-RTN-01   | ReturnBooks | PASS               |
+| TC-RTN-02   | ReturnBooks | PASS               |
+| TC-RTN-03   | ReturnBooks | PASS               |
+| TC-RTN-04   | ReturnBooks | PASS               |
+| TC-MBK-01   | ManageBooks | PASS               |
+| TC-MBK-02   | ManageBooks | PASS               |
+| TC-MBK-03   | ManageBooks | PASS               |
+| TC-MBK-04   | ManageBooks | PASS               |
+| TC-MBK-05   | ManageBooks | PASS               |
+| TC-MBK-06   | ManageBooks | PASS               |
+| TC-ABK-01   | AddBook     | PASS               |
+| TC-ABK-02   | AddBook     | PASS               |
+| TC-ABK-03   | AddBook     | PASS               |
+| TC-MUS-01   | ManageUsers | PASS               |
+| TC-MUS-02   | ManageUsers | PASS               |
+| TC-MUS-03   | ManageUsers | PASS               |
+| TC-MUS-04   | ManageUsers | PASS               |
+| TC-MUS-05   | ManageUsers | PASS               |
+| TC-AUS-01   | AddUser     | PASS               |
+| TC-AUS-02   | AddUser     | PASS               |
+| TC-AUS-03   | AddUser     | PASS               |
+| TC-AUS-04   | AddUser     | PASS               |
 
-**Catatan tambahan:**
-- Sertakan screenshot jika FAIL.
-- Cantumkan data yang dipakai (username/book title) supaya bisa direplikasi.
 
 ---
