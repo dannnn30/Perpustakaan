@@ -70,8 +70,8 @@ Sebelum testing, pastikan:
 #### TC-LGN-02 — Login sukses (anggota)
 **Tujuan:** memastikan login anggota sukses dan fitur petugas dibatasi.  
 **Langkah:**
-1. Username: `anggota1`
-2. Password: `123`
+1. Username: `ole`
+2. Password: `abcd`
 3. Klik **Login**  
 **Expected Result:**
 - Masuk ke **Catalog**
